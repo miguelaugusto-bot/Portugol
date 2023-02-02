@@ -17,19 +17,6 @@ programa
 			escreva(vetor[cont] + "\n")
 			cont++
 		}enquanto(cont<=3)
-
-//loop para armazenamento continuo na matriz
-/*Não lembro que fiz aqui, mas a matrix dados já esta fazendo o processo com do while e switch em outro projeto
-		faca{
-			faca{
-				escreva("Digite Algo: ")
-				leia(matriz[linha][coluna])
-				coluna++
-			}enquanto(coluna<=2)
-			coluna = 0
-			linha++
-		}enquanto(linha<=1)
-		*/
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -37,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 79; 
+ * @POSICAO-CURSOR = 368; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
